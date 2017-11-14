@@ -1,4 +1,4 @@
-
+import time
 print("Write an adjective")
 adjective1 = input()
 
@@ -48,3 +48,4 @@ print("A new and " + adjective1 + " fairy princess movie is coming out soon!It w
       + adjective2 + " spell on her. The dwarfs take care of her until the "
       + adjective3 + person1 + " comes to rescue her, and they all live "
       + adjectively + " ever after!")
+time.sleep(200)
